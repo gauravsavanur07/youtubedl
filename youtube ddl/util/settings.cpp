@@ -8,11 +8,11 @@ Settings::~Settings() {
 }
 
 QString Settings::getOrganizationName() {
-  return "Tortugas Consulting, LLC.";
+  return "Videolan ";
 }
 
 QString Settings::getOrganizationDomain() {
-  return "tortugas-llc.com";
+  return "Videolan";
 }
 
 QString Settings::getApplicationName() {
