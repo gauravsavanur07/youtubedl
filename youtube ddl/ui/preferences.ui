@@ -74,7 +74,7 @@
    <item row="2" column="1" colspan="2">
     <widget class="QComboBox" name="cmbAudioFormat">
      <property name="toolTip">
-      <string>Specifies your preferred audio format.</string>
+      <string>Audio format specification</string>
      </property>
      <property name="whatsThis">
       <string/>
@@ -87,7 +87,7 @@
       <bool>false</bool>
      </property>
      <property name="toolTip">
-      <string>Specifies the directory where files are to be downloaded.</string>
+      <string>Directory specification for file download.</string>
      </property>
      <property name="whatsThis">
       <string/>
